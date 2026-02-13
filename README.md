@@ -37,6 +37,9 @@ Analytics: Customer health scoring and visual sales intelligence.
 | **Pipeliner** | 🇦🇹 | [Training Center](https://www.pipelinersales.com/resources/) | [API Cloud Docs](https://docs.pipelinersales.com/api/) |
 | **Planhat** | 🇸🇪 | [Planhat Blog](https://www.planhat.com/customer-success) | [Dev Introduction](https://www.planhat.com/developers/api/introduction) |
 | **Scoro** | 🇪🇪 | [Help Center](https://pipedream.com/apps/scoro/integrations/helpdesk) | [API v2 Docs](https://api.scoro.com/api/v2) |
+| **webCRM** | 🇩🇰 Denmark | [Support Portal](https://api.webcrm.com/) | [REST API Docs](https://api.webcrm.com/) |
+| **SuperOffice** | 🇳🇴 Norway | [Dev Portal](https://docs.superoffice.com/en/developer-portal/index.html) | [RESTful API Reference](https://docs.superoffice.com/en/developer-portal/index.html) |
+| **Capsule CRM** | 🇬🇧 UK | [API Guide](https://developer.capsulecrm.com/) | [API v2 Docs](https://developer.capsulecrm.com/v2/overview/getting-started) |
 
 ---
 
