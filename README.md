@@ -88,4 +88,4 @@ Are you a founder or GTM leader looking to scale your technical stack?
 *Maintained with ❤️ by **Damian Goral (Mr. GTM)**. Proudly supporting the European Tech Ecosystem.*
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Mr._GTM-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/damiangoral/)
-[![Consulting Badge](https://img.shields.io/badge/Consulting-Book_a_Call-brightgreen?style=for-the-badge&logo=calendly)](TWÓJ_LINK_DO_CALENDLY)
+[![Consulting Badge](https://img.shields.io/badge/Consulting-Book_a_Call-brightgreen?style=for-the-badge&logo=calendly)](https://rf-salesagencyspzoo.pipedrive.com/scheduler/7akmvKc2/gtm-audit-with-damian-goral-dealmeio)
