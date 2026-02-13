@@ -1,4 +1,4 @@
-# European-CRM-API-Registry-GTM-Engineering
+# Global-CRM-API-Registry-GTM-Engineering
 The definitive technical map and knowledge base for GTM Engineers and Sales Ops professionals scaling in Europe. 🇪🇺 This repository bypasses the marketing fluff to provide direct access to the programmable layers of the 10 most influential European CRM platforms.
 Project Goal 
 To bridge the gap between sales strategy and technical execution by centralizing documentation and API access for high-growth GTM stacks.
@@ -18,13 +18,6 @@ Connectivity: REST APIs, Webhooks, and Relational Data Mapping.
 Automation: Workflow orchestration and data synchronization.
 
 Analytics: Customer health scoring and visual sales intelligence.
-
-# 🚀 European & Global CRM API Registry
-
-The definitive technical map and knowledge base for **GTM Engineers** and **Sales Ops** professionals. This repository bypasses marketing fluff to provide direct access to the programmable layers of the world's most influential CRM platforms.
-
-## 🧱 Project Goal
-To bridge the gap between sales strategy and technical execution by centralizing documentation and API access for high-growth GTM stacks.
 
 ---
 
@@ -71,4 +64,28 @@ To bridge the gap between sales strategy and technical execution by centralizing
 This is a living project. If you're a GTM Engineer and want to suggest a CRM or update documentation links, please **Open a Pull Request** or submit an **Issue**.
 
 ---
-*Maintained by [Damian Goral](https://www.linkedin.com/in/damiangoral/)*
+---
+
+## 👨‍💻 Meet Mr. GTM
+**Damian Goral** — GTM Engineer & Architect of Revenue Engines.
+
+I help companies bridge the gap between sales strategy and technical execution. If you're fighting with messy CRM integrations or broken lead flows, I'm here to build the "pipes" that power your growth.
+
+* 🚀 **Current Mission:** Mapping the world's most programmable GTM stacks.
+* 🛠️ **Expertise:** CRM Architecture, API Orchestration, and Workflow Automation.
+* 💡 **Fun Fact:** I believe a CRM without a robust API is just a digital filing cabinet.
+
+---
+
+## 🤝 Let's Build Your Revenue Engine
+Are you a founder or GTM leader looking to scale your technical stack?
+
+* **Consulting & GTM Audits:** [Book a 15-min discovery call](TWÓJ_LINK_DO_CALENDLY)
+* **Strategy & Insight:** [Follow me on LinkedIn for daily GTM deep-dives](https://www.linkedin.com/in/damiangoral/)
+* **Direct Inquiries:** [damian@dealme.pl](mailto:damian@dealme.pl)
+
+---
+*Maintained with ❤️ by **Damian Goral (Mr. GTM)**. Proudly supporting the European Tech Ecosystem.*
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Mr._GTM-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/damiangoral/)
+[![Consulting Badge](https://img.shields.io/badge/Consulting-Book_a_Call-brightgreen?style=for-the-badge&logo=calendly)](TWÓJ_LINK_DO_CALENDLY)
