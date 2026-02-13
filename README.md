@@ -80,7 +80,7 @@ I help companies bridge the gap between sales strategy and technical execution. 
 ## 🤝 Let's Build Your Revenue Engine
 Are you a founder or GTM leader looking to scale your technical stack?
 
-* **Consulting & GTM Audits:** [Book a 15-min discovery call](TWÓJ_LINK_DO_CALENDLY)
+* **Consulting & GTM Audits:** [Book a 15-min discovery call](https://rf-salesagencyspzoo.pipedrive.com/scheduler/7akmvKc2/gtm-audit-with-damian-goral-dealmeio)
 * **Strategy & Insight:** [Follow me on LinkedIn for daily GTM deep-dives](https://www.linkedin.com/in/damiangoral/)
 * **Direct Inquiries:** [damian@dealme.pl](mailto:damian@dealme.pl)
 
