@@ -41,6 +41,7 @@ Analytics: Customer health scoring and visual sales intelligence.
 | **SuperOffice** | 🇳🇴 Norway | [Dev Portal](https://docs.superoffice.com/en/developer-portal/index.html) | [RESTful API Reference](https://docs.superoffice.com/en/developer-portal/index.html) |
 | **Capsule CRM** | 🇬🇧 UK | [API Guide](https://developer.capsulecrm.com/) | [API v2 Docs](https://developer.capsulecrm.com/v2/overview/getting-started) |
 
+
 ---
 
 ## 🌎 Global & Enterprise Platforms
@@ -60,6 +61,7 @@ Analytics: Customer health scoring and visual sales intelligence.
 | **Keap** | 🇺🇸 | [Learning Center](https://keap.com/product-updates/keap-acquires-the-factory-launches-implementation-services) | [REST API v2](https://developer.infusionsoft.com/) |
 | **Nimble** | 🇺🇸 | [Nimble Support](https://support.nimble.com/) | [API v1 Docs](https://nimble.readthedocs.io/en/latest/) |
 | **Vtiger** | 🇮🇳 | [Vtiger KB](https://help.vtiger.com/) | [REST API Manual](https://help.vtiger.com/article/147111249-Rest-API-Manual) |
+| **Wiza** | 🇺🇸 USA | [Wiza Help](https://help.wiza.co/) | [API Documentation](https://docs.wiza.co/) |
 
 ---
 
